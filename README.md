@@ -230,12 +230,4 @@ The dataset contains emergency room patient records, including:
 
 ## 📌 Project Outcome
 
-This dashboard helps hospital administrators and healthcare analysts monitor emergency room performance, improve resource allocation, reduce patient waiting times, and enhance overall patient experience through actionable insights.)
-
-## 📌 Project Outcome
-
-This dashboard helps hospital administrators and healthcare analysts monitor emergency room performance, improve resource allocation, reduce patient waiting times, and enhance overall patient experience through actionable insights.
-
-## 📌 Project Outcome
-
 This dashboard helps hospital administrators and healthcare analysts monitor emergency room performance, improve resource allocation, reduce patient waiting times, and enhance overall patient experience through actionable insights.
