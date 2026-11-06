@@ -1,4 +1,6 @@
 # Emergency-Room-Dashboard
+A comprehensive end-to-end data analytics project built to monitor emergency room operations, patient volume trends, wait times, satisfaction scores, and demographic distributions using Power BI.
+
 ## 1. Project Title / Headline
 
 **Hospital Emergency Room Analytics Dashboard**
